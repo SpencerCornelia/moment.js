@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#currentDateH {
+	padding-top: 30px;
+}
+
+#momentTitle {
+	margin-left: 200px;
+	color: #3C6B87;	
+}
